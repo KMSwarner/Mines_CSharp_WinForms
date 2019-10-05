@@ -1,0 +1,57 @@
+﻿'GameProject.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'E:\Users\Kevin\Documents\Visual Studio 2017\Projects\MineSweeperCSharp\GameProject\bin\Debug\GameProject.exe'. Symbols loaded.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameProject.exe' (CLR v4.0.30319: GameProject.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. Symbols loaded.
+cellsRA init successful
+gamePanel init successful
+Initialization and board generation successful!
+Revealed cells: 1
+Revealed cells: 2
+Revealed cells: 41
+Revealed cells: 42
+Revealed cells: 43
+Revealed cells: 44
+Revealed cells: 45
+Revealed cells: 46
+Revealed cells: 47
+Revealed cells: 48
+Revealed cells: 49
+Revealed cells: 50
+Revealed cells: 61
+Revealed cells: 62
+Revealed cells: 63
+Revealed cells: 64
+Revealed cells: 65
+Revealed cells: 66
+Revealed cells: 67
+Revealed cells: 68
+Revealed cells: 69
+Revealed cells: 70
+Revealed cells: 71
+cellsRA init successful
+gamePanel init successful
+Initialization and board generation successful!
+Revealed cells: 53
+Revealed cells: 54
+Revealed cells: 55
+Revealed cells: 56
+Revealed cells: 57
+Revealed cells: 58
+Revealed cells: 59
+Revealed cells: 61
+Revealed cells: 62
+Revealed cells: 63
+Revealed cells: 64
+Revealed cells: 65
+Revealed cells: 66
+Revealed cells: 67
+Revealed cells: 68
+Revealed cells: 69
+Revealed cells: 70
+Revealed cells: 71
+The program '[35752] GameProject.exe' has exited with code 0 (0x0).
